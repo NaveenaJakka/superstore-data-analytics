@@ -1,0 +1,2 @@
+-- SQLite
+show tables;
